@@ -1,3 +1,3 @@
 believestudystudy
-# Restaurant
-一个通过maven来创建的javaweb项目
+# VendingMachines
+一个简单的java自助售货机项目
